@@ -1,12 +1,20 @@
 {
     "name": "irice/w-scratch-pad",
+    "license": "MIT",
     "authors": [
         {
             "name": "irice",
             "email": "sgetaplus@gmail.com"
         }
     ],
+    "minimum-stability": "stable",
     "require": {
         "bower-asset/jquery":"*"
-    }
+    },
+    "repositories": [
+        {
+            "type": "composer",
+            "url": "https://asset-packagist.org"
+        }
+    ]
 }
