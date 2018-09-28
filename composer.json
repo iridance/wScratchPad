@@ -1,9 +1,9 @@
 {
-    "name": "bower-asset/w-scratch-pad",
+    "name": "irice/w-scratch-pad",
     "authors": [
         {
             "name": "irice",
-            "email": "irice@open-life.com"
+            "email": "sgetaplus@gmail.com"
         }
     ],
     "require": {
